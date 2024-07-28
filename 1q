@@ -1,0 +1,31 @@
+first commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Jul 28 08:12:00 2024 +0530
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .github/workflows/tests.yml
+#	new file:   .gitignore
+#	new file:   CHANGELOG.md
+#	new file:   CODE_OF_CONDUCT.md
+#	new file:   Gemfile
+#	new file:   Gemfile.lock
+#	new file:   LICENSE.txt
+#	new file:   README.md
+#	new file:   Rakefile
+#	new file:   bin/console
+#	new file:   bin/setup
+#	new file:   lib/puma-cfs-rails.rb
+#	new file:   lib/puma_cfs_rails/middleware.rb
+#	new file:   lib/puma_cfs_rails/railtie.rb
+#	new file:   lib/puma_cfs_rails/version.rb
+#	new file:   puma-cfs-rails.gemspec
+#	new file:   test/test_helper.rb
+#	new file:   test/test_puma_cfs_rails.rb
+#
